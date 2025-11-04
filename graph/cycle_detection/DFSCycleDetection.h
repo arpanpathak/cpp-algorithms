@@ -1,0 +1,13 @@
+//
+// Created by Arpan Pathak on 07/09/25.
+//
+
+#ifndef CPP_DATASTRUCTURES_DFSCYCLEDETECTION_H
+#define CPP_DATASTRUCTURES_DFSCYCLEDETECTION_H
+
+
+class DFSCycleDetection {
+};
+
+
+#endif //CPP_DATASTRUCTURES_DFSCYCLEDETECTION_H
