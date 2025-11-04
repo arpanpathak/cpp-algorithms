@@ -35,4 +35,5 @@ add_executable(cpp_datastructures main.cpp
         math/geometry/linear_algebra/GaussElimination.cpp
         functional_programming/Lambdas.cpp
         heap/MinimumMeetingRoomsRequired.cpp
-        math/bitwise_operator/BitSet.cpp)
+        math/bitwise_operator/BitSet.cpp
+        graph/scc/Kosaraju.cpp)
