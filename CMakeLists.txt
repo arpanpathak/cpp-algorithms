@@ -38,4 +38,5 @@ add_executable(cpp_datastructures main.cpp
         math/bitwise_operator/BitSet.cpp
         graph/scc/Kosaraju.cpp
         tree/trie/SearchSuggestionSystem.cpp
-        math/intervals/InsertIntervals.cpp)
+        math/intervals/InsertIntervals.cpp
+        math/binary/AddBinary.cpp)
