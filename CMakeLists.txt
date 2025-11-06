@@ -36,4 +36,6 @@ add_executable(cpp_datastructures main.cpp
         functional_programming/Lambdas.cpp
         heap/MinimumMeetingRoomsRequired.cpp
         math/bitwise_operator/BitSet.cpp
-        graph/scc/Kosaraju.cpp)
+        graph/scc/Kosaraju.cpp
+        tree/trie/SearchSuggestionSystem.cpp
+        math/intervals/InsertIntervals.cpp)
