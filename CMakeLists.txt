@@ -39,4 +39,11 @@ add_executable(cpp_datastructures main.cpp
         graph/scc/Kosaraju.cpp
         tree/trie/SearchSuggestionSystem.cpp
         math/intervals/InsertIntervals.cpp
-        math/binary/AddBinary.cpp)
+        math/binary/AddBinary.cpp
+        string/NextPermutation.cpp
+        linkedlist/MiddleNode.cpp
+        math/NextBeautifulNumber.cpp
+        graph/AllAncestoryOfANodeInADirectedAcyclicGraph.cpp
+        sorting/DutchNationalFlag.cpp
+        math/intervals/RussianDollEnvelopes.cpp
+        twopointer/TrappingRainWater.cpp)
