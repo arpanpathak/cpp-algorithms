@@ -46,4 +46,12 @@ add_executable(cpp_datastructures main.cpp
         graph/AllAncestoryOfANodeInADirectedAcyclicGraph.cpp
         sorting/DutchNationalFlag.cpp
         math/intervals/RussianDollEnvelopes.cpp
-        twopointer/TrappingRainWater.cpp)
+        twopointer/TrappingRainWater.cpp
+        math/bitwise_operator/SmallestNumberWithAllSetBits.cpp
+        math/bitwise_operator/CountSetBits.cpp
+        stack/BasicCalculator_II.cpp
+        string/StringCompression_III.cpp
+        string/BinarySearch.cpp
+        graph/flow_network/MaxFlowMinCut.cpp
+        tree/interval/SegmentTree.cpp
+        dynamic_programming/LongestIncreasingPathInAMatrix.cpp)
