@@ -54,4 +54,6 @@ add_executable(cpp_datastructures main.cpp
         string/BinarySearch.cpp
         graph/flow_network/MaxFlowMinCut.cpp
         tree/interval/SegmentTree.cpp
-        dynamic_programming/LongestIncreasingPathInAMatrix.cpp)
+        dynamic_programming/LongestIncreasingPathInAMatrix.cpp
+        graph/WordLadder_II.cpp
+        string/CountNumberOfWordsAreSubSequenceOfGivenString.cpp)
