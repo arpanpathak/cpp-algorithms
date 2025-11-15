@@ -56,4 +56,5 @@ add_executable(cpp_datastructures main.cpp
         tree/interval/SegmentTree.cpp
         dynamic_programming/LongestIncreasingPathInAMatrix.cpp
         graph/WordLadder_II.cpp
-        string/CountNumberOfWordsAreSubSequenceOfGivenString.cpp)
+        string/CountNumberOfWordsAreSubSequenceOfGivenString.cpp
+        dynamic_programming/CoinChange.cpp)
